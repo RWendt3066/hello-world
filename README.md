@@ -1,2 +1,2 @@
 # hello-world
-Just another testing repository
+This is my first GitHub lesson.
